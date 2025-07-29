@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deep Karmakar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Data Analytics" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
 
 
 <!--  <img align="right" alt="Coding" width="400" src="https://aitd.amity.edu/wp-content/uploads/2024/12/1616667695311.gif"> -->
